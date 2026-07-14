@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1393
+slug  : the-dark-glass
+seal  : ad6166a14609575016c9c7d33d71db9f41c831956e68bc2cfc9e937b429dc5a2
+prev  : 807c8f5605b70e1a15dea389a45a14e2ec41bdfd9557e03e888e3b586bb9aef1
+link  : cbc9a3e9de36ef0a513b068a63c293ca575e837e28ea5bc019e1996a6b63c765
+head  : cbc9a3e9de36ef0a513b068a63c293ca575e837e28ea5bc019e1996a6b63c765
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
